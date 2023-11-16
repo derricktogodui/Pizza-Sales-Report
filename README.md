@@ -2,6 +2,8 @@
 
 [Tableau: Pizza Sales Report](https://public.tableau.com/app/profile/derricktogodui/viz/PizzaSalesReport_17000905586860/BESTWORSTSELLER)
 
+![dash](https://public.tableau.com/app/profile/derricktogodui/viz/PizzaSalesReport_17000905586860/BESTWORSTSELLER)
+
 
 ## KPI's Requirements
 
@@ -22,10 +24,10 @@
 
 ## Key Finding
 
-A. Peak orders are between 12:00 PM and 1:00 PM. and in the evening, from 4:00 PM to 7:00 PM.
-B. Significant variations in weekly orders, with highest peak during the 48th week from the month of December
-C. Classic category contributes to maximum sales, total orders and pizza sold
-D. Large size pizza contributes to maximum total sales.
+* Peak orders are between 12:00 PM and 1:00 PM. and in the evening, from 4:00 PM to 7:00 PM.
+* Significant variations in weekly orders, with highest peak during the 48th week from the month of December
+* Classic category contributes to maximum sales, total orders and pizza sold
+* Large size pizza contributes to maximum total sales.
 
 1. The chicken pizza contributes to maximum revenue.
 2. The classic deluxe pizza contributes to maximum total quantities.
