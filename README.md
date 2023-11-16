@@ -2,7 +2,7 @@
 
 [Tableau: Pizza Sales Report](https://public.tableau.com/app/profile/derricktogodui/viz/PizzaSalesReport_17000905586860/BESTWORSTSELLER)
 
-![dash](https://public.tableau.com/app/profile/derricktogodui/viz/PizzaSalesReport_17000905586860/BESTWORSTSELLER)
+![HOME](https://github.com/derricktogodui/Pizza-Sales-Report/blob/main/HOME.png)
 
 
 ## KPI's Requirements
