@@ -1,4 +1,8 @@
 # Pizza Sales Report (SQL and TABLEAU)
+
+[Tableau: Pizza Sales Report](https://public.tableau.com/app/profile/derricktogodui/viz/PizzaSalesReport_17000905586860/BESTWORSTSELLER)
+
+
 ## KPI's Requirements
 
 * Total Revenue: The sum of the total price of all pizza orders.
